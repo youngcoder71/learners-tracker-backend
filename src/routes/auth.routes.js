@@ -108,7 +108,7 @@ router.post("/forgot-password", async (req, res) => {
         [resetToken, resetTokenExpires, email]
       );
 
-      const resetLink = `http://localhost:5173/reset-password/${resetToken}`;
+      const resetLink = `https://leaners-tracker.easydigital.co.tz/api/reset-password/${resetToken}`;
 
       try {
         await sendResetEmail(email, resetLink);

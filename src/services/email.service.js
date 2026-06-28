@@ -33,13 +33,13 @@ const sendPasswordEmail = async (to, password) => {
           </div>
           
           <div style="text-align: center; margin-bottom: 24px;">
-            <a href="http://localhost:5173" style="background: #ff6b00; color: #ffffff; padding: 14px 32px; border-radius: 8px; text-decoration: none; font-size: 16px; font-weight: 600; display: inline-block;">
+            <a href="https://leaners-tracker.easydigital.co.tz" style="background: #ff6b00; color: #ffffff; padding: 14px 32px; border-radius: 8px; text-decoration: none; font-size: 16px; font-weight: 600; display: inline-block;">
               🔗 Go to Login Page
             </a>
           </div>
           
           <p style="color: #888; font-size: 13px; text-align: center; margin-bottom: 8px;">
-            Website: <a href="http://localhost:5173" style="color: #ff6b00;">http://localhost:5173</a>
+            Website: <a href="https://leaners-tracker.easydigital.co.tz" style="color: #ff6b00;">https://leaners-tracker.easydigital.co.tz</a>
           </p>
           <p style="color: #888; font-size: 13px; text-align: center;">
             Use your email and the password above to sign in.
